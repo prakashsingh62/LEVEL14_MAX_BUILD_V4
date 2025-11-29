@@ -1,2 +1,13 @@
 Flask==2.2.5
+gunicorn==21.2.0
+
 python-dotenv==1.0.0
+
+# NLP & parsing
+regex==2022.10.31
+
+# Slack webhook requests
+requests==2.31.0
+
+# Scheduler utilities (if needed)
+schedule==1.2.0
